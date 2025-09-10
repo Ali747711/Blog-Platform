@@ -188,7 +188,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Built with ❤️ by **Ali** 
+Built with ❤️ by **Azamat** 
 
 ## 🙏 Acknowledgments
 
